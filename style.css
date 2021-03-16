@@ -1,0 +1,8 @@
+:root {
+    --company-blue: #153f98;
+}
+
+
+h1 {
+    color: var(--company-blue);
+}
